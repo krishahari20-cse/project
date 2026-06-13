@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 2999,
+    "image": "assets/images/headphone.jpg",
+    "description": "Premium noise cancelling headphones."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 4999,
+    "image": "assets/images/watch.jpg",
+    "description": "Fitness tracking smartwatch."
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse",
+    "price": 1499,
+    "image": "assets/images/mouse.jpg",
+    "description": "RGB gaming mouse."
+  }
+]
